@@ -23,8 +23,8 @@
   list-style: none;
   margin-right: 108px;
   flex-direction: row;
-  position: relative;
-  margin-left: 210%;
+  position: absolute;
+  margin-left: 40%;
 }
 .logo{
     display: flex;
