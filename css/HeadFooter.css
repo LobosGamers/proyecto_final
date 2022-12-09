@@ -113,11 +113,24 @@ body{
     }
   }
 .infoCom{
+  position: relative;
   background-color: white;
   width: 1000px;
-  height: 500px;
+  height: 400px;
   margin-left: 70px;
   border-radius: 20% / 5% 5%;
+}
+.presentacion{
+  position: absolute;
+  margin: 40px;
+}
+.presentacion h1{
+  font-family: 'Zen Dots', cursive;
+  font-size: 5vh ;
+}
+.presentacion p{
+  font-family: 'Press Start 2P', cursive;
+  font-size: larger;
 }
 .mapa1{
   width: 700px;
@@ -151,4 +164,5 @@ body{
   .icons div {
     width: 5%;
   }
+
 
