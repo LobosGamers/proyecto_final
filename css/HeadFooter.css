@@ -112,8 +112,12 @@ body{
       width: 30%;
     }
   }
-.mapas{
-  
+.infoCom{
+  background-color: white;
+  width: 1000px;
+  height: 500px;
+  margin-left: 70px;
+  border-radius: 20% / 5% 5%;
 }
 .mapa1{
   width: 700px;
