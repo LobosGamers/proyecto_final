@@ -28,6 +28,7 @@
 }
 .absolute{
   position: absolute;
+  margin-left: 76%;
 }
 .logo{
     display: flex;
