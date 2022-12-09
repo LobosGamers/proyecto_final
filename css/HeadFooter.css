@@ -12,11 +12,19 @@
   margin-top: 100px;
 }
 .nav {
-    
+  position: relative;
     display: flex;
     list-style: none;
     margin-right: 30px;
     flex-direction: row;
+}
+.nav2 {
+  display: flex;
+  list-style: none;
+  margin-right: 108px;
+  flex-direction: row;
+  position: relative;
+  margin-left: 210%;
 }
 .logo{
     display: flex;
