@@ -3,7 +3,7 @@
     font-family: 'Open Sans', sans-serif;
     display: flex;
     background-color: rgb(51, 51, 52);
-    position: inherit;
+    position: relative;
     padding: 13px 0;
     padding-left: 17px;
     
@@ -23,8 +23,11 @@
   list-style: none;
   margin-right: 108px;
   flex-direction: row;
-  position: absolute;
+  
   margin-left: 40%;
+}
+.absolute{
+  position: absolute;
 }
 .logo{
     display: flex;
